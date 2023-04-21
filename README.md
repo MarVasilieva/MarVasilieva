@@ -19,6 +19,7 @@
 
 </div>
 :woman_technologist: About Me :
+
  ### I'm a Junior Frontend Developer from Russia with a passion for creating beautiful and functional websites. I have a solid understanding of HTML, CSS, and JavaScript, as well as experience with framework such as React.
 
 - :telescope: I'm currently writing fun pet projects in react and I love writing code.
@@ -32,8 +33,8 @@
 
 ### I am eager to learn and grow as a developer, and I am always looking for new challenges to take on.
 I have experience working on projects both individually and as part of a team.
-My goal is to continue to develop my skills and gain more experience in the industry.
-### 
+### My goal is to continue to develop my skills and gain more experience in the industry.
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
