@@ -28,7 +28,10 @@ I'm a Junior Frontend Developer from Russia with a passion for creating beautifu
 - :zap: I study typescript.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-Progress bar.png	![progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=28&leftFill=%23FF0000 "progress")
+![progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=28&leftFill=%23FF0000 "progress")
+
+## I am eager to learn and grow as a developer, and I am always looking for new challenges to take on.
+I have experience working on projects both individually and as part of a team.
 ### 
 :hammer_and_wrench: Languages and Tools :
 <div>
