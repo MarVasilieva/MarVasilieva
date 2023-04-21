@@ -1,6 +1,6 @@
 ### 
 <div id="header" align="center">
-  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1595331045788/7DTc5AKaw.gif?auto=format,compress&gif-q=60&format=webm" width="250"/>
+  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1595331045788/7DTc5AKaw.gif?auto=format,compress&gif-q=60&format=webm" width="450" height="100"/>
 </div>
 
 <div id="badges" align="center">
