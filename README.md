@@ -32,7 +32,7 @@
 ![progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=28&leftFill=%23FF0000 "progress")
 
 ### I am eager to learn and grow as a developer, and I am always looking for new challenges to take on.
-I have experience working on projects both individually and as part of a team.
+ ### I have experience working on projects both individually and as part of a team.
 ### My goal is to continue to develop my skills and gain more experience in the industry.
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -45,8 +45,8 @@ I have experience working on projects both individually and as part of a team.
  
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="50" height="50"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" **alt="Trello" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="50" height="50"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" **alt="Trello" width="50" height="50"/>&nbsp;
 </div>
 ---
 
