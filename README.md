@@ -29,7 +29,7 @@
 - :zap: I study typescript.
 
 
-### <div> I am eager to learn and grow as a developer, and I am always looking for new challenges to take on. I have experience working on projects both individually and as part of a team. My goal is to continue to develop my skills and gain more experience in the industry.
+###  I am eager to learn and grow as a developer, and I am always looking for new challenges to take on. I have experience working on projects both individually and as part of a team. My goal is to continue to develop my skills and gain more experience in the industry.
 </div>
 <h3> :hammer_and_wrench: Languages and Tools : </h3>
 <div>
