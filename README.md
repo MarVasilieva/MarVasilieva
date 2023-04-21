@@ -12,14 +12,14 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=catitgirl&style=flat-square&color=blue" alt=""/>
   <h1>
-  Hello everyone 
+  Hello ,I'm Marina!
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<h3>I' m Natalie!</h3>
+
 </div>
 :woman_technologist: About Me :
-I am a Frontend Developer from Armenia
+I'm a Junior Frontend Developer from Russia with a passion for creating beautiful and functional websites. I have a solid understanding of HTML, CSS, and JavaScript, as well as experience with framework such as React.
 
 - :telescope: I'm currently writing fun pet projects in react and I love writing code.
 
@@ -28,7 +28,7 @@ I am a Frontend Developer from Armenia
 - :zap: I study typescript.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-
+Progress bar.png	![progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=28&leftFill=%23FF0000 "progress")
 ### 
 :hammer_and_wrench: Languages and Tools :
 <div>
