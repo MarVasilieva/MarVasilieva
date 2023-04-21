@@ -1,6 +1,6 @@
 ### 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="250"/>
+  <img src="https://www.neizvestniy-geniy.ru/images/works/photo/2016/12/1708841_1.gif" width="250"/>
 </div>
 
 <div id="badges" align="center">
