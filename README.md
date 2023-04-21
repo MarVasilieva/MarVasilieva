@@ -8,7 +8,7 @@
 
 <div id="badges" align="center">
   
-[![Twitter Badge](https://img.shields.io/badge/-@VasuJaiswal00-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/VasuJaiswal00)](https://twitter.com/VasuJaiswal00) [![Linkedin Badge](https://img.shields.io/badge/-VasudevJaiswal-440b89192?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/vasudev-jaiswal-440b89192) [![Mail Badge](https://img.shields.io/badge/-V_vasu49-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/vasudevjaiswa) [![Mail Badge](https://img.shields.io/badge/-Vasujaiswal00@-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vasujaiswal00@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@VasuJaiswal00-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/VasuJaiswal00)](https://twitter.com/VasuJaiswal00) [![Linkedin Badge](https://img.shields.io/badge/-VasudevJaiswal-440b89192?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/vasudev-jaiswal-440b89192) [![Mail Badge](https://img.shields.io/badge/-V_vasu49-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/marina_vasilieva2211) [![Mail Badge](https://img.shields.io/badge/-Vasujaiswal00@-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:marivasilek264@gmail.com)
 <br> 
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
