@@ -1,9 +1,9 @@
 ### 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Marina+Vasilieva+Github+Profile..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=800&lines=Welcome+To+Marina+Vasilieva+Github+Profile..)](https://git.io/typing-svg)
 <div id="header" align="center">
 
 
-  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1595331045788/7DTc5AKaw.gif?auto=format,compress&gif-q=60&format=webm" width="450" height="200"/>
+  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1595331045788/7DTc5AKaw.gif?auto=format,compress&gif-q=60&format=webm" width="850" height="300"/>
 </div>
 
 <div id="badges" align="center">
